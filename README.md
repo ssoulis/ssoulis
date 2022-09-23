@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SPIRO SULI</h1>
+<h1 align="center">Hi 👋, I'm SPIROS SULI</h1>
 <h3 align="center">A passionate software engineer undergraduate</h3>
 
 - 🔭 I’m currently working on [Programming-and-Systems-on-the-World-Wide-Web](https://github.com/ssoulis/-Programming-and-Systems-on-the-World-Wide-Web)
