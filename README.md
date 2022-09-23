@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Programming-and-Systems-on-the-World-Wide-Web](https://github.com/ssoulis/-Programming-and-Systems-on-the-World-Wide-Web)
 
-- 🌱 I’m currently learning **Html5,PHP,Nodejs,Javascript**
+- 🌱 I’m currently learning **Html5, PHP, Nodejs, Javascript**
 
 - 👯 I’m looking to collaborate on **every Python, C, C++ or Java project**
 
