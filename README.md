@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **spyrossoulis1999@gmail.com**
 
-- ⚡ Currently **looking for a soft-eng job**
+- ⚡ Currently **looking for a software engineer or software developer job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
