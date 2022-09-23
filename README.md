@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SPIRO SULI</h1>
-<h3 align="center">A passionate computer engineer and informatics undergraduate</h3>
+<h3 align="center">A passionate software engineer undergraduate</h3>
 
 - 🔭 I’m currently working on [Programming-and-Systems-on-the-World-Wide-Web](https://github.com/ssoulis/-Programming-and-Systems-on-the-World-Wide-Web)
 
 - 🌱 I’m currently learning **Html5,PHP,Nodejs,Javascript**
 
-- 🤝 I’m looking to collaborate on **every Python,C,C++ or Java project**
+- 👯 I’m looking to collaborate on **every Python,C,C++ or Java project**
 
 - 🤝 I’m especially looking to collaborate in **Artificial Intelligence,Machine Learning Projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **spyrossoulis1999@gmail.com**
 
-- ⚡ Currently **looking for a software engineer or software developer job**
+- ⚡ Currently **looking for a Software Developer or Software Engineer job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
