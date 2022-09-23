@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **Html5,PHP,Nodejs,Javascript**
 
-- 👯 I’m looking to collaborate on **every Python,C,C++ or Java project**
+- 👯 I’m looking to collaborate on **every Python, C, C++ or Java project**
 
-- 🤝 I’m especially looking to collaborate in **Artificial Intelligence,Machine Learning Projects**
+- 🤝 I’m especially looking to collaborate in **Artificial Intelligence, Machine Learning Projects**
 
 - 👨‍💻 The majority of my projects are available at [https://github.com/ssoulis?tab=repositories](https://github.com/ssoulis?tab=repositories)
 
 - 📄 I worked at a LLC Software Development Company **for 1 year as a Junior Developer**
 
-- 📄 We made smart-bots using Python and AI,you can find some of my codes at [https://github.com/ssoulis/Python_bots](https://github.com/ssoulis/Python_bots)
+- 📄 We made smart-bots using Python and AI, you can find some of my codes at [https://github.com/ssoulis/Python_bots](https://github.com/ssoulis/Python_bots)
 
 - 📫 How to reach me **spyrossoulis1999@gmail.com**
 
