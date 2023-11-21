@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Html5, PHP, Nodejs, Javascript**
 
-- 👯 I’m looking to collaborate on **every Python, C, C++ or Java project**
+- 👯 I’m looking to collaborate on **every Machine learning Project**
 
 - 🤝 I’m especially looking to collaborate in **Artificial Intelligence, Machine Learning Projects**
 
