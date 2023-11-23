@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SPIROS SULI</h1>
 <h3 align="center">A passionate software engineer undergraduate</h3>
 
-- 🔭 I’m currently working on [Multidimensional-Data-Structures-and-Computational-Geometry](https://github.com/ssoulis/Multidimensional-Data-Structures-and-Computational-Geometry)
+- 🔭 I’m currently working on [My_Thesis](https://github.com/ssoulis/My_Thesis)
 
 - 🌱 I’m currently learning **Html5, PHP, Nodejs, Javascript**
 
