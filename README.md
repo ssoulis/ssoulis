@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My_Thesis](https://github.com/ssoulis/My_Thesis)
 
-- 🌱 I’m currently learning **Html5, PHP, Nodejs, Javascript**
+- 🌱 I’m currently learning **Deep Learning Techniques**
 
 - 👯 I’m looking to collaborate on **every Python,C and Java Project**
 
