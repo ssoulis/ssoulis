@@ -13,8 +13,6 @@
 
 - 📄 I worked at a LLC Software Development Company **for 1 year as a Junior Developer**
 
-- 📄 We made smart-bots using Python and AI, you can find some of my codes at [https://github.com/ssoulis/Python_bots](https://github.com/ssoulis/Python_bots)
-
 - 📫 How to reach me **spyrossoulis1999@gmail.com**
 
 - ⚡ Currently **looking for a Machine Learning or Data Engineer/Analyst job**
